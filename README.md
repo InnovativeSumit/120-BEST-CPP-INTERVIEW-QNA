@@ -1,10 +1,13 @@
 # 💻 120 Best C++ Interview Q&A  
 
-![Stars](https://img.shields.io/github/stars/your-username/120-cpp-interview-qna?style=social)  
-![Forks](https://img.shields.io/github/forks/your-username/120-cpp-interview-qna?style=social)  
-![License](https://img.shields.io/badge/License-MIT-green)  
-![Language](https://img.shields.io/badge/Language-C++-blue)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
+<div align="center">
+  <img src="https://img.shields.io/github/stars/your-username/120-cpp-interview-qna?style=social" />
+  <img src="https://img.shields.io/github/forks/your-username/120-cpp-interview-qna?style=social" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Language-C++-blue" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange" />
+</div>
+
 
 📘 A **comprehensive collection of 120 C++ interview questions and answers**, carefully designed to help learners, developers, and professionals **master C++ concepts** and crack technical interviews with confidence.  
 
