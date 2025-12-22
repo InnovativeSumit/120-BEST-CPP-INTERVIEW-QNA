@@ -1,4 +1,4 @@
-### 💻 120 Best C++ Interview Q&A  
+## 💻 120 Best C++ Interview Q&A  
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/your-username/120-cpp-interview-qna?style=social" />
