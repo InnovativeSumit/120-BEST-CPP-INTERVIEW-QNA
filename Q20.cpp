@@ -1,3 +1,10 @@
+// A Palindrome Number is a number that remains the same
+// when its digits are reversed.
+// Example:
+// 121 -> Reversed = 121
+// 1331 -> Reversed = 1331
+// 123 -> Reversed = 321 (Not a palindrome)
+
 #include <iostream>
 using namespace std;
 
@@ -18,3 +25,4 @@ int main() {
     }
     return 0;
 }
+
