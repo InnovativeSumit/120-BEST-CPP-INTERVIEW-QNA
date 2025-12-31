@@ -1,3 +1,12 @@
+// Friendly Pair Numbers are two numbers whose ratio of the sum of their
+// proper divisors to the number itself is equal.
+// In other words, for two numbers a and b:
+// (Sum of proper divisors of a) / a  =  (Sum of proper divisors of b) / b
+// Example:
+// 6 and 28
+// Proper divisors of 6  = 1 + 2 + 3 = 6  →  6/6 = 1
+// Proper divisors of 28 = 1 + 2 + 4 + 7 + 14 = 28 → 28/28 = 1
+
 #include <iostream>
 using namespace std;
 int sumOfDivisors(int n) {
@@ -24,3 +33,4 @@ int main() {
 
     return 0;
 }
+
