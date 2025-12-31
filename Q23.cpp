@@ -1,3 +1,9 @@
+// A Perfect Number is a number that is equal to the sum of its
+// proper divisors (excluding the number itself).
+// Example:
+// 6  -> Proper divisors: 1 + 2 + 3 = 6
+// 28 -> Proper divisors: 1 + 2 + 4 + 7 + 14 = 28
+
 #include <iostream>
 using namespace std;
 
@@ -21,3 +27,4 @@ int main() {
 
     return 0;
 }
+
