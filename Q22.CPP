@@ -1,3 +1,9 @@
+// A Strong Number is a number in which the sum of the factorial
+// of each digit is equal to the number itself.
+// Example:
+// 145 -> 1! + 4! + 5! = 1 + 24 + 120 = 145
+// 2   -> 2! = 2
+
 #include <iostream>
 using namespace std;
 
@@ -25,3 +31,4 @@ int main() {
 
     return 0;
 }
+
