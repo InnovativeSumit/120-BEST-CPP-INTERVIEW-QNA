@@ -1,3 +1,9 @@
+// An Armstrong Number is a number that is equal to the sum of its own digits
+// each raised to the power of the total number of digits.
+// Example:
+// 153 -> 1^3 + 5^3 + 3^3 = 153
+// 370 -> 3^3 + 7^3 + 0^3 = 370
+
 #include <iostream>
 using namespace std;
 
@@ -37,3 +43,4 @@ int main() {
 
     return 0;
 }
+
