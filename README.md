@@ -22,7 +22,7 @@
 ✅ Perfect for **beginners, students, and professionals**  
 
 
-## 📚 Topics Covered 
+## 📚 Topics Covered:-
 
 - 🔹 **C++ Basics** – Syntax, variables, operators  
 - 🔹 **Control Flow** – Loops, conditions, switch-case  
