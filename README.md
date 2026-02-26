@@ -13,7 +13,7 @@
 📘 A **comprehensive collection of 120 C++ interview questions and answers**, carefully designed to help learners, developers, and professionals **master C++ concepts** and crack technical interviews with confidence.  
 
 
-## ✨ Why This Project:-
+## ✨ Why This Projects
 
 ✅ Covers **fundamentals to advanced topics**  
 ✅ Includes **conceptual & coding-based Q&A**  
