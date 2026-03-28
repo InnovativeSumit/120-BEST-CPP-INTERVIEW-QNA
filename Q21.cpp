@@ -5,6 +5,7 @@
 // 370 -> 3^3 + 7^3 + 0^3 = 370
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main() {
@@ -24,15 +25,10 @@ int main() {
     // Armstrong calculation
     temp = num;
     while (temp > 0) {
-        digit = temp % 10;
+        digit = temp % 10;  
 
-        int power = 1;
-        for (int i = 1; i <= digits; i++) {
-            power = power * digit;
-        }
-
-        sum = sum + power;
-        temp = temp / 10;
+        sum += pow(digit, digits);
+        temp /= 10;
     }
 
     if (original == sum) {
@@ -43,4 +39,5 @@ int main() {
 
     return 0;
 }
+
 
